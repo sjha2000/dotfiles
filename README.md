@@ -1,3 +1,3 @@
-# dotfiles
+# Dotfiles
 
-this repo includes my dot files
+## This repo includes my dot files
